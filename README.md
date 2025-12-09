@@ -1,5 +1,7 @@
 # LB-Assignments
 Author : Aditya Shejwal
 <br>
-This Is My Logic Build Assignment 
+
+
+"Improving Coding Fundamentals with Structured Logic Assignments"
 
